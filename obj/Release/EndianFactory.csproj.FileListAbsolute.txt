@@ -1,0 +1,7 @@
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\bin\Release\EndianFactory.dll.config
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\bin\Release\EndianFactory.dll
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\bin\Release\EndianFactory.pdb
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\obj\Release\EndianFactory.csprojAssemblyReference.cache
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\obj\Release\EndianFactory.csproj.CoreCompileInputs.cache
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\obj\Release\EndianFactory.dll
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianConverter\EndianConverter\EndianConverter\obj\Release\EndianFactory.pdb

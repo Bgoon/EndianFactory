@@ -1,0 +1,7 @@
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\bin\Debug\EndianFactory.dll.config
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\bin\Debug\EndianFactory.dll
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\bin\Debug\EndianFactory.pdb
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\obj\Debug\EndianFactory.csprojAssemblyReference.cache
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\obj\Debug\EndianFactory.csproj.CoreCompileInputs.cache
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\obj\Debug\EndianFactory.dll
+X:\WorkDesk\A_Programing\Csharp\2018\20181027_EndianFactory\EndianFactory\EndianFactory\obj\Debug\EndianFactory.pdb
