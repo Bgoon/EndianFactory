@@ -15,7 +15,7 @@
     public static int ToLocalInt32(this byte[] data, int startIndex  =  0);
     public static string ToLocalStringWithSize(this byte[] data, Encoding encoding);
    
-	public  static  byte[] Reverse(this  byte[] data, int  startIndex, int  size); 
+    public  static  byte[] Reverse(this  byte[] data, int  startIndex, int  size); 
 ```
 <br>
 함수명 명명 규칙은 다음과 같습니다.
