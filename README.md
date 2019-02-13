@@ -4,18 +4,18 @@
 
 제공하는 함수의 예시는 다음과 같습니다.
 
-```{.cs}
-    public static byte[] ToNetBytes(this bool value);
-    public static byte[] ToNetBytes(this short value);
-    public static byte[] ToNetBytes(this int value);
-    public static byte[] ToNetBytesWithSize(this string value, Encoding encoding);
+```cs
+public static byte[] ToNetBytes(this bool value);
+public static byte[] ToNetBytes(this short value);
+public static byte[] ToNetBytes(this int value);
+public static byte[] ToNetBytesWithSize(this string value, Encoding encoding);
     
-    public static bool ToLocalBoolean(this byte[] data, int startIndex = 0);
-    public static short ToLocalInt16(this byte[] data, int startIndex  =  0);
-    public static int ToLocalInt32(this byte[] data, int startIndex  =  0);
-    public static string ToLocalStringWithSize(this byte[] data, Encoding encoding);
+public static bool ToLocalBoolean(this byte[] data, int startIndex = 0);
+public static short ToLocalInt16(this byte[] data, int startIndex  =  0);
+public static int ToLocalInt32(this byte[] data, int startIndex  =  0);
+public static string ToLocalStringWithSize(this byte[] data, Encoding encoding);
    
-    public  static  byte[] Reverse(this  byte[] data, int  startIndex, int  size); 
+public  static  byte[] Reverse(this  byte[] data, int  startIndex, int  size); 
 ```
 <br>
 함수명 명명 규칙은 다음과 같습니다.
